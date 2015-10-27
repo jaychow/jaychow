@@ -5,8 +5,8 @@
   <li class="divider"></li>
   <li><a href="#!">three</a></li>
 </ul>
-<nav class="red lighten-2" role="navigation">
-  <div class="nav-wrapper container"><a id="logo-container" href="{{ url('/') }}" class="brand-logo">Laravel - Materialize</a>
+<nav class="lighten-2" role="navigation">
+  <div class="nav-wrapper container"><a id="logo-container" href="{{ url('/') }}" class="brand-logo">Jay Chow</a>
     <ul class="right hide-on-med-and-down">
       <li><a href="{{ url('cards') }}">Cards</a></li>
       <li><a href="#">Link 2</a></li>

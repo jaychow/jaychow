@@ -18,8 +18,8 @@
           <a href="https://github.com/blomdahldaniel/laravel-materialize" class="waves-effect waves-light grey darken-1 btn-large ">Github <i class="fa fa-github"></i></a>
         </div>
         <div class="row center">
-          <a href="http://laravel.com/" class="waves-effect waves-light btn red lighten-2">Laravel</a>
-          <a href="http://materializecss.com/" class="waves-effect waves-light btn red lighten-2">Materialize</a>
+          <a href="http://laravel.com/" class="waves-effect waves-light btn lighten-2">Laravel</a>
+          <a href="http://materializecss.com/" class="waves-effect waves-light btn  lighten-2">Materialize</a>
         </div>
         <br>
       </div><!--  /.row  -->

@@ -6,8 +6,8 @@
 @import "components/_color";
 
 // Variables;
-@import "components/_variables";
 @import "variables-override";
+@import "components/_variables";
 
 // Reset
 @import "components/_normalize";
