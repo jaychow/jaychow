@@ -12,3 +12,8 @@ _ide_helper.php
 composer.phar
 error.log
 storage/debugbar/*
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
