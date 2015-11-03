@@ -41,7 +41,7 @@
 
         {!! HTML::script("js/vendor/modernizr-2.8.3.min.js") !!}
     </head>
-    <body>
+    <body class="grey darken-4">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->

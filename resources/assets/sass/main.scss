@@ -1,6 +1,28 @@
-body{
-    @extend .grey.lighten-4;
+html, body {
+    height: 100%;
 }
-#index-banner{
-    @extend .blue-grey-text.text-darken-2;
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-weight: 100;
+    font-family: 'Lato';
+    @extend .grey.lighten2;
+    @extend .grey-text.text-lighten-3
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+footer.page-footer{
+    margin-top:0;
+    padding-top:0;
+
 }

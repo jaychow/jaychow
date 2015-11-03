@@ -8,7 +8,7 @@ return [
     |
     | The application name for use within the UI of the application
     */
-    'name' => 'Laravel - Materialize',
+    'name' => 'Jay Chow',
 
     /*
     |--------------------------------------------------------------------------
