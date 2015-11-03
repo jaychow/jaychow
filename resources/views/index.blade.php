@@ -11,7 +11,7 @@
       <div class="row">
         <div class="col s12">
           <div class="content">
-            <div class="title">Hello, my name is Jay Chow. I am an ICAM graduate from UCSD, Senior Web Developer, with skills in multimedia production, experience in data visualization on massive cultural data, and have a passion for entrepreneurship.</div>
+            <div class="title">Hello, my name is Jay Chow. I am an ICAM graduate from UCSD, Senior Web Developer at Katana, with skills in multimedia production, experience in data visualization on massive cultural data, and have a passion for entrepreneurship.</div>
           </div>
         </div>
       </div><!--  /.container  -->
